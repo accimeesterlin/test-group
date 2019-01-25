@@ -1,0 +1,3 @@
+
+
+db.ref('/').set({ sharedData: '' });
